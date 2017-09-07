@@ -1,0 +1,3 @@
+/Users/Jeff/Desktop/itp380-group-project/Source/Mystings/Mystings.Build.cs
+/Users/Jeff/Desktop/itp380-group-project/Source/Mystings.Target.cs
+/Users/Jeff/Desktop/itp380-group-project/Source/MystingsEditor.Target.cs

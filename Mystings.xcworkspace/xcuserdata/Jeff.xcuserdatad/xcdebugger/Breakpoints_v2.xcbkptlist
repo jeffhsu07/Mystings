@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Source/Mystings/Pistol.cpp"
+            timestampString = "501462961.244812"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "APistol::Tick(float deltaTime)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Source/Mystings/MystingsCharacter.cpp"
+            timestampString = "500857376.718481"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "AMystingsCharacter::AMystingsCharacter()"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AMystingsCharacter::AMystingsCharacter()"
+                  moduleName = "UE4Editor-Mystings.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Jeff/Desktop/itp380-group-project/Source/Mystings/MystingsCharacter.cpp"
+                  timestampString = "500857376.801114"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "83">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AMystingsCharacter::AMystingsCharacter()"
+                  moduleName = "UE4Editor-Mystings-8480.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Jeff/Desktop/itp380-group-project/Source/Mystings/MystingsCharacter.cpp"
+                  timestampString = "500857512.538694"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "67">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AMystingsCharacter::AMystingsCharacter()"
+                  moduleName = "UE4Editor-Mystings-1539.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Jeff/Desktop/itp380-group-project/Source/Mystings/MystingsCharacter.cpp"
+                  timestampString = "500860164.469557"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "67">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Source/Mystings/MystingsPlayerController.cpp"
+            timestampString = "501464283.518342"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "134"
+            endingLineNumber = "134"
+            landmarkName = "AMystingsPlayerController::BeginPlay()"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AMystingsPlayerController::OnStartFire()"
+                  moduleName = "UE4Editor-Mystings.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Jeff/Desktop/itp380-group-project/Source/Mystings/MystingsPlayerController.cpp"
+                  timestampString = "500868745.339813"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "135"
+                  endingLineNumber = "135"
+                  offsetFromSymbolStart = "58">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AMystingsPlayerController::OnStartFire()"
+                  moduleName = "UE4Editor-Mystings-5366.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Jeff/Desktop/itp380-group-project/Source/Mystings/MystingsPlayerController.cpp"
+                  timestampString = "500869003.079605"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "135"
+                  endingLineNumber = "135"
+                  offsetFromSymbolStart = "58">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AMystingsPlayerController::OnStartFire()"
+                  moduleName = "UE4Editor-Mystings-832.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Jeff/Desktop/itp380-group-project/Source/Mystings/MystingsPlayerController.cpp"
+                  timestampString = "500870142.127472"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "135"
+                  endingLineNumber = "135"
+                  offsetFromSymbolStart = "58">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AMystingsPlayerController::OnStartFire()"
+                  moduleName = "UE4Editor-Mystings-2985.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Jeff/Desktop/itp380-group-project/Source/Mystings/MystingsPlayerController.cpp"
+                  timestampString = "500870463.833348"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "135"
+                  endingLineNumber = "135"
+                  offsetFromSymbolStart = "58">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AMystingsPlayerController::OnStartFire()"
+                  moduleName = "UE4Editor-Mystings-8718.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Jeff/Desktop/itp380-group-project/Source/Mystings/MystingsPlayerController.cpp"
+                  timestampString = "500870544.292347"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "135"
+                  endingLineNumber = "135"
+                  offsetFromSymbolStart = "58">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AMystingsPlayerController::OnStartFire()"
+                  moduleName = "UE4Editor-Mystings-470.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Jeff/Desktop/itp380-group-project/Source/Mystings/MystingsPlayerController.cpp"
+                  timestampString = "500870585.664857"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "135"
+                  endingLineNumber = "135"
+                  offsetFromSymbolStart = "58">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Source/Mystings/MystingsPlayerController.cpp"
+            timestampString = "501464283.518342"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "120"
+            endingLineNumber = "120"
+            landmarkName = "AMystingsPlayerController::SetNewMoveDestination(const FVector DestLocation)"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AMystingsPlayerController::OnSetDestinationPressed()"
+                  moduleName = "UE4Editor-Mystings.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Jeff/Desktop/itp380-group-project/Source/Mystings/MystingsPlayerController.cpp"
+                  timestampString = "500865927.247408"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "124"
+                  endingLineNumber = "124"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AMystingsPlayerController::OnSetDestinationPressed()"
+                  moduleName = "UE4Editor-Mystings-8693.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Jeff/Desktop/itp380-group-project/Source/Mystings/MystingsPlayerController.cpp"
+                  timestampString = "500865956.761708"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "124"
+                  endingLineNumber = "124"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AMystingsPlayerController::SetNewMoveDestination(FVector)"
+                  moduleName = "UE4Editor-Mystings-4436.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Jeff/Desktop/itp380-group-project/Source/Mystings/MystingsPlayerController.cpp"
+                  timestampString = "500868591.101962"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "120"
+                  endingLineNumber = "120"
+                  offsetFromSymbolStart = "183">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AMystingsPlayerController::SetNewMoveDestination(FVector)"
+                  moduleName = "UE4Editor-Mystings-6626.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Jeff/Desktop/itp380-group-project/Source/Mystings/MystingsPlayerController.cpp"
+                  timestampString = "500868638.545636"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "120"
+                  endingLineNumber = "120"
+                  offsetFromSymbolStart = "183">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
